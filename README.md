@@ -55,7 +55,7 @@ _이텔릭_
 
 # 이미지(Images)
 
-[![HEROPY](https://heropy.blog/css/images/logo.png)](https://heropy.blog/)
+[![HEROPY](https://github.com/Sophia9156/portfolio/blob/master/img/parrot.png?raw=true)](https://sophia9156.github.io/portfolio/)
 
 # 인용문(BlockQuote)
 
@@ -117,7 +117,7 @@ fixed | 뷰포트 | X
 동해물과 <u>백두산</u>이 마르고 닳도록<br />
 하느님이 보우하사 우리나라 만세
 
-<img width="70" src="https://heropy.blog/css/images/logo.png" alt="HEROPY" />
+<img width="70" src="https://github.com/Sophia9156/portfolio/blob/master/img/parrot.png?raw=true" alt="SOPHIA" />
 
 # 수평선(Horizontal Rule)
 
